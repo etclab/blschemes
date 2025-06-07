@@ -7,11 +7,11 @@ fmt:
 	go fmt ./...
 
 # -count=1 forces tests to always run, even if no code has changed
-test:
+test: vet
 	go test -v -vet=all -count=1 ./...
 
-benchmark: fmt
-	go test -v -bench=. -benchmem
+bench: vet
+	go test -v -bench=. -benchmem ./...
 
 clean:
 	rm -f $(progs)

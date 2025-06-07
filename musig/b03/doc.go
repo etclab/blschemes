@@ -1,8 +1,8 @@
 // Package b03 implements the multisignature scheme from:
 //
-//  Alexandra Boldyreva.
+//	Alexandra Boldyreva.
 //	"Threshold Signatures, Multisignatures and Blind Signatures Based on the Gap-Diffie-Hellman-Group Signature Scheme."
-//  International Workshop on Public Key Cryptography (PKC), 2003.
+//	International Workshop on Public Key Cryptography (PKC), 2003.
 //
 // Section 4 of that [paper] describes the scheme.
 //
