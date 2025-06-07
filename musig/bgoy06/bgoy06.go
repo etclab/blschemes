@@ -1,4 +1,4 @@
-package bgoy
+package bgoy06
 
 import (
 	bls "github.com/cloudflare/circl/ecc/bls12381"

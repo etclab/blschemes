@@ -1,4 +1,4 @@
-package afgh
+package afgh05
 
 import (
 	bls "github.com/cloudflare/circl/ecc/bls12381"

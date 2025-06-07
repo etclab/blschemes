@@ -1,4 +1,4 @@
-// Package bgls implements the aggregate signature scheme from:
+// Package bgls03 implements the aggregate signature scheme from:
 //
 //	Dan Boneh, Craig Gentry, Ben Lynn, Hovav Shacham.
 //	"Aggregate and Verifiably Encrypted Signatures from Bilinear Maps."
@@ -7,4 +7,4 @@
 // Section 3.1 of that [paper] describes the scheme.
 //
 // [paper]: https://crypto.stanford.edu/~dabo/pubs/papers/aggreg.pdf
-package bgls
+package bgls03

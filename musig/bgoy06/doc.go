@@ -1,4 +1,4 @@
-// Package bgoy implements the ordered multisignature (OMS) scheme from:
+// Package bgoy06 implements the ordered multisignature (OMS) scheme from:
 //
 //	Alexandra Boldyreva, Craig Gentry, Adam O'Neill, Dae Hyun Yum.
 //	"Ordered Multisignatures and Identity-Based Sequential Aggregate Signatures with Applications to Secure Routing."
@@ -49,4 +49,4 @@
 //	Pairing Ops in Verify   3                   5
 //
 // [paper]: https://eprint.iacr.org/2007/438.pdf
-package bgoy
+package bgoy06

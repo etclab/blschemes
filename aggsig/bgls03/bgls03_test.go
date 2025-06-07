@@ -1,4 +1,4 @@
-package bgls
+package bgls03
 
 import (
 	"fmt"
